@@ -27,4 +27,4 @@ Notes from my journey through computing : what I learn from the tools I use, imp
 
 Ps : 
 One day, I will live in my terminal for professional usage of my computer.
-I should be prepared when this day will come.
+I should be prepared for when this day will come, and get use to it right now.
