@@ -11,6 +11,7 @@ When you use a tool (or equivalently a program, programming language, piece of s
 So the fewer tools you have the better you know them, and .txt are versatiles enough to contain any text-related file (such as README, AUTHORS,...).
 
 ------------------------------------------------------------
+
 What you can find in my github
 
 1)
