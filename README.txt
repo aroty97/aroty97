@@ -21,3 +21,6 @@ I use version control for numerical simulations, embedded electronics codes, and
 2)
 Keep a copy of my config files (I am running linux, and try to live in the terminal), in order to carry the most important part of my home on my back.
 Other private personnal things in my home are kept elsewhere.
+
+3)
+Notes from my journey through computing : what I learn from the tools I use, important commands, options and goals of programs I use, etc.
