@@ -24,3 +24,7 @@ Other private personnal things in my home are kept elsewhere.
 
 3)
 Notes from my journey through computing : what I learn from the tools I use, important commands, options and goals of programs I use, etc.
+
+Ps : 
+One day, I will live in my terminal for professional usage of my computer.
+I should be prepared when this day will come.
