@@ -1,0 +1,17 @@
+Plain text editor : Vim 
+
+Shell : ?
+
+Programming language : ?
+
+
+
+Distribution : gentoo ?, or ekinox (TBA) (ecological linux)
+
+Version control : git
+
+Password control : ?
+
+Remote acces : ssh ?
+
+...
