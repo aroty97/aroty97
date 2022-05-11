@@ -2,9 +2,9 @@ Plain text editor : Vim
 
 Shell : ?
 
+Terminal emulator : ?
+
 Programming language : ?
-
-
 
 Distribution : gentoo ?, or ekinox (TBA) (ecological linux)
 
