@@ -6,7 +6,7 @@ Terminal emulator : ?
 
 Programming language : ?
 
-Distribution : gentoo ?, or ekinox (TBA) (ecological linux)
+Linux Distribution : gentoo ?, or ekinox (TBA) (ecological linux)
 
 Version control : git
 
